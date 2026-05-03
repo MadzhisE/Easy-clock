@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Madzhis"
+            }
+        ],
+        "Category": "System Information",
+        "Description": "A striped clock.",
+        "Icon": "battery",
+        "Id": "com.github.madzhise.easyclock",
+        "Name": "8bit clock",
+        "Version": "1"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "KPackageStructure": "Plasma/Applet"
+}
